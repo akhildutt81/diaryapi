@@ -1,0 +1,10 @@
+let tokens=[]
+function gettokens(){
+    return tokens
+}
+function managetokens(){
+
+}
+function addtoken(token){
+    tokens.push(token)
+}
